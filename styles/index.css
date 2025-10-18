@@ -6,9 +6,9 @@ h1 {
 
 div.opt {
     display: inline-block;
-    background-color: aqua;
+    background: aqua;
     padding: 2px;
-    margin: 2px;
+    margin: 4px;
 }
 
 .img {
@@ -20,8 +20,14 @@ h2,
 p {
     text-align: center;
 }
+
 a {
     text-decoration: none;
+    color: black;
 } 
 
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
 
