@@ -1,0 +1,27 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+div.opt {
+    display: inline-block;
+    background-color: aqua;
+    padding: 2px;
+    margin: 2px;
+}
+
+.img {
+    height: 100px;
+    width: 150px;
+}
+
+h2,
+p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+} 
+
+
